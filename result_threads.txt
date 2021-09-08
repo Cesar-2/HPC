@@ -1,0 +1,480 @@
+Try 1 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00014300 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00096800 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00318500 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00566700 
+
+
+Try 1 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00048300 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00086900 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00264300 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00538500 
+
+
+Try 1 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00019800 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00085400 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00290400 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00667800 
+
+
+Try 1 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00022700 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00088800 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00265200 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00529900 
+
+
+Try 2 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00016500 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00074500 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00312600 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00657400 
+
+
+Try 2 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00015700 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00111300 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00225600 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00529000 
+
+
+Try 2 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00019600 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00079100 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00314200 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00703300 
+
+
+Try 2 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00048300 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00117300 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00310800 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00719700 
+
+
+Try 3 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00016500 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00104500 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00319700 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00531400 
+
+
+Try 3 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00016200 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00093900 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00264900 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00691500 
+
+
+Try 3 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00014500 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00084800 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00244600 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00677100 
+
+
+Try 3 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00018700 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00073100 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00300800 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00643600 
+
+
+Try 4 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00017200 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00084400 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00314800 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00541500 
+
+
+Try 4 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00018100 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00072100 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00289500 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00707400 
+
+
+Try 4 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00019800 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00065100 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00282400 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00532400 
+
+
+Try 4 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00018200 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00089000 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00302500 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00526000 
+
+
+Try 5 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00015000 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00079700 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00225100 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00621400 
+
+
+Try 5 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00018200 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00086200 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00272100 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00750600 
+
+
+Try 5 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00014100 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00092400 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00306200 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00589100 
+
+
+Try 5 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00017100 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00093100 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00280100 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00507000 
+
+
+Try 6 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00015300 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00072200 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00280600 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00709600 
+
+
+Try 6 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00017000 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00067200 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00271800 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00539400 
+
+
+Try 6 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00013600 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00081500 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00244900 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00510900 
+
+
+Try 6 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00017200 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00093000 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00220500 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00512500 
+
+
+Try 7 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00017900 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00071200 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00287100 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00568500 
+
+
+Try 7 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00018600 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00092200 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00290700 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00559800 
+
+
+Try 7 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00016900 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00073900 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00324300 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00595300 
+
+
+Try 7 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00017800 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00093100 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00311200 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00637500 
+
+
+Try 8 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00099900 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00108100 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00328300 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00615100 
+
+
+Try 8 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00015800 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00099500 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00238800 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00608200 
+
+
+Try 8 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00016300 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00067100 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00295500 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00509700 
+
+
+Try 8 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00013500 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00070400 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00224100 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00513600 
+
+
+Try 9 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00014300 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00093600 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00226500 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00687600 
+
+
+Try 9 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00017000 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00069000 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00300700 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00527000 
+
+
+Try 9 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00016900 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00085900 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00284400 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00665900 
+
+
+Try 9 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00015600 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00074600 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00359900 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00697900 
+
+
+Try 10 
+
+Matrix's size 16 x 16 with 2 threads: 
+Tiempo de ejecucion: 0.00018100 
+Matrix's size 200 x 200 with 2 threads: 
+Tiempo de ejecucion: 0.00071000 
+Matrix's size 400 x 400 with 2 threads: 
+Tiempo de ejecucion: 0.00332800 
+Matrix's size 600 x 600 with 2 threads: 
+Tiempo de ejecucion: 0.00633200 
+
+
+Try 10 
+
+Matrix's size 16 x 16 with 4 threads: 
+Tiempo de ejecucion: 0.00045900 
+Matrix's size 200 x 200 with 4 threads: 
+Tiempo de ejecucion: 0.00107300 
+Matrix's size 400 x 400 with 4 threads: 
+Tiempo de ejecucion: 0.00315900 
+Matrix's size 600 x 600 with 4 threads: 
+Tiempo de ejecucion: 0.00607900 
+
+
+Try 10 
+
+Matrix's size 16 x 16 with 6 threads: 
+Tiempo de ejecucion: 0.00018000 
+Matrix's size 200 x 200 with 6 threads: 
+Tiempo de ejecucion: 0.00105100 
+Matrix's size 400 x 400 with 6 threads: 
+Tiempo de ejecucion: 0.00244100 
+Matrix's size 600 x 600 with 6 threads: 
+Tiempo de ejecucion: 0.00577600 
+
+
+Try 10 
+
+Matrix's size 16 x 16 with 8 threads: 
+Tiempo de ejecucion: 0.00015600 
+Matrix's size 200 x 200 with 8 threads: 
+Tiempo de ejecucion: 0.00104600 
+Matrix's size 400 x 400 with 8 threads: 
+Tiempo de ejecucion: 0.00240900 
+Matrix's size 600 x 600 with 8 threads: 
+Tiempo de ejecucion: 0.00573200 
+
+
