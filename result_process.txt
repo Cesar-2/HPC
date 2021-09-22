@@ -1,0 +1,4 @@
+Tiempo de ejecucion: 0.00051300 
+Tiempo de ejecucion: 0.00047000 
+Tiempo de ejecucion: 0.00030500 
+Tiempo de ejecucion: 0.00030100 

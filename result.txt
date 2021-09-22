@@ -1,13 +1,13 @@
 Try 1 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003800 
+Tiempo de ejecucion: 0.00004700 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03647500 
+Tiempo de ejecucion: 0.03910800 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28479000 
+Tiempo de ejecucion: 0.28834100 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95221400 
+Tiempo de ejecucion: 1.01773500 
 
 
 Try 2 
@@ -15,106 +15,111 @@ Try 2
 Matrix's size 16 x 16: 
 Tiempo de ejecucion: 0.00002600 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03729200 
+Tiempo de ejecucion: 0.03993100 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28153900 
+Tiempo de ejecucion: 0.29308400 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.98729500 
+Tiempo de ejecucion: 0.95939800 
 
 
 Try 3 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00002600 
+Tiempo de ejecucion: 0.00006600 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03733400 
+Tiempo de ejecucion: 0.03847900 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28171600 
+Tiempo de ejecucion: 0.28763500 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95331600 
+Tiempo de ejecucion: 0.96875700 
 
 
 Try 4 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003200 
+Tiempo de ejecucion: 0.00002600 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03882400 
+Tiempo de ejecucion: 0.03761000 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28612300 
+Tiempo de ejecucion: 0.28413400 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95034700 
+Tiempo de ejecucion: 1.01053500 
 
 
 Try 5 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00002500 
+Tiempo de ejecucion: 0.00003300 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.04262700 
+Tiempo de ejecucion: 0.03752300 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28477100 
+Tiempo de ejecucion: 0.30099800 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95034400 
+Tiempo de ejecucion: 0.96306500 
 
 
 Try 6 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003100 
+Tiempo de ejecucion: 0.00002500 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03728200 
+Tiempo de ejecucion: 0.03761300 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.29911200 
+Tiempo de ejecucion: 0.28700500 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95310900 
+Tiempo de ejecucion: 0.96257800 
 
 
 Try 7 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003300 
+Tiempo de ejecucion: 0.00003100 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03700000 
+Tiempo de ejecucion: 0.03825400 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28784400 
+Tiempo de ejecucion: 0.29117900 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95856300 
+Tiempo de ejecucion: 0.98908600 
 
 
 Try 8 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00002600 
+Tiempo de ejecucion: 0.00003200 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03773100 
+Tiempo de ejecucion: 0.04020900 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28830200 
+Tiempo de ejecucion: 0.29024600 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95541400 
+Tiempo de ejecucion: 0.97740100 
 
 
 Try 9 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00002600 
+Tiempo de ejecucion: 0.00004900 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03680400 
+Tiempo de ejecucion: 0.03848300 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28632400 
+Tiempo de ejecucion: 0.28713100 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.96496300 
+Tiempo de ejecucion: 0.97673300 
 
 
 Try 10 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00004600 
+Tiempo de ejecucion: 0.00003400 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03760600 
+Tiempo de ejecucion: 0.04071900 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28448100 
+Tiempo de ejecucion: 0.28888900 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.96671100 
+Tiempo de ejecucion: 0.98554300 
 
 
+Tiempo de ejecucion: 0.00005800 
+Tiempo de ejecucion: 0.00002100 
+Tiempo de ejecucion: 0.00000800 
+Tiempo de ejecucion: 0.00000800 
+Tiempo de ejecucion: 0.00003200 
