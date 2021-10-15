@@ -1,125 +1,120 @@
 Try 1 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00004700 
+Tiempo de ejecucion: 0.00003200 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03910800 
+Tiempo de ejecucion: 0.04562500 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28834100 
+Tiempo de ejecucion: 0.32277500 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 1.01773500 
+Tiempo de ejecucion: 1.07532100 
 
 
 Try 2 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00002600 
+Tiempo de ejecucion: 0.00003200 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03993100 
+Tiempo de ejecucion: 0.04845600 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.29308400 
+Tiempo de ejecucion: 0.34269400 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.95939800 
+Tiempo de ejecucion: 1.03407500 
 
 
 Try 3 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00006600 
+Tiempo de ejecucion: 0.00004500 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03847900 
+Tiempo de ejecucion: 0.04897300 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28763500 
+Tiempo de ejecucion: 0.33566000 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.96875700 
+Tiempo de ejecucion: 1.06443000 
 
 
 Try 4 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00002600 
+Tiempo de ejecucion: 0.00003500 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03761000 
+Tiempo de ejecucion: 0.04980500 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28413400 
+Tiempo de ejecucion: 0.36819800 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 1.01053500 
+Tiempo de ejecucion: 1.02165900 
 
 
 Try 5 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003300 
+Tiempo de ejecucion: 0.00003600 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03752300 
+Tiempo de ejecucion: 0.04801000 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.30099800 
+Tiempo de ejecucion: 0.35147400 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.96306500 
+Tiempo de ejecucion: 1.10258800 
 
 
 Try 6 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00002500 
+Tiempo de ejecucion: 0.00004500 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03761300 
+Tiempo de ejecucion: 0.05012700 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28700500 
+Tiempo de ejecucion: 0.35098000 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.96257800 
+Tiempo de ejecucion: 1.15708900 
 
 
 Try 7 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003100 
+Tiempo de ejecucion: 0.00003400 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03825400 
+Tiempo de ejecucion: 0.05425300 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.29117900 
+Tiempo de ejecucion: 0.35384600 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.98908600 
+Tiempo de ejecucion: 1.02934200 
 
 
 Try 8 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003200 
+Tiempo de ejecucion: 0.00004600 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.04020900 
+Tiempo de ejecucion: 0.05222900 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.29024600 
+Tiempo de ejecucion: 0.32981200 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.97740100 
+Tiempo de ejecucion: 0.99467700 
 
 
 Try 9 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00004900 
+Tiempo de ejecucion: 0.00004600 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.03848300 
+Tiempo de ejecucion: 0.04710900 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28713100 
+Tiempo de ejecucion: 0.33223900 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.97673300 
+Tiempo de ejecucion: 1.01375900 
 
 
 Try 10 
 
 Matrix's size 16 x 16: 
-Tiempo de ejecucion: 0.00003400 
+Tiempo de ejecucion: 0.00002600 
 Matrix's size 200 x 200: 
-Tiempo de ejecucion: 0.04071900 
+Tiempo de ejecucion: 0.04869900 
 Matrix's size 400 x 400: 
-Tiempo de ejecucion: 0.28888900 
+Tiempo de ejecucion: 0.33225000 
 Matrix's size 600 x 600: 
-Tiempo de ejecucion: 0.98554300 
+Tiempo de ejecucion: 1.01409500 
 
 
-Tiempo de ejecucion: 0.00005800 
-Tiempo de ejecucion: 0.00002100 
-Tiempo de ejecucion: 0.00000800 
-Tiempo de ejecucion: 0.00000800 
-Tiempo de ejecucion: 0.00003200 
