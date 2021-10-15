@@ -6,6 +6,7 @@ Commands | Content
 ---------|--------
 sh script.sh | Multiply matrices without threads
 sh script_threads.sh | Multiply matrices with threads
+sh script_transposition.sh | Multiply matrices with transposition
 
 Members:
 ---------
