@@ -65,15 +65,11 @@ void darts(double *adds, long long iterations, long long iter_per_process, int p
     adds[process] = 0;
     for (long long i = 0; i < iter_per_process; i++)
     {
-        //Genera una coordenada (x,y)
-        x = (double)rand() / (double)(RAND_MAX / 2);
-        x = x - 1;
-        y = (double)rand() / (double)(RAND_MAX / 2);
-        y = y - 1;
-        //Calcula si el dardo cae en el circulo
-        d = (x * x) + (y * y);
+        x = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
+        y = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
+        d = sqrt((x * x) + (y * y));
         if (d <= 1)
-            adds[process] = adds[process] + 1;
+            adds[process] += 1;
     }
 
     if (process == 0)
@@ -81,13 +77,13 @@ void darts(double *adds, long long iterations, long long iter_per_process, int p
         double aux = iterations % MAX_PROCESS;
         for (int i = 0; i < aux; i++)
         {
-            x = (double)rand() / (double)(RAND_MAX / 2);
-            x = x - 1;
-            y = (double)rand() / (double)(RAND_MAX / 2);
-            y = y - 1;
+            x = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
+            y = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
             d = sqrt((x * x) + (y * y));
             if (d <= 1)
                 adds[process] += 1;
         }
     }
 }
+
+double for_function()

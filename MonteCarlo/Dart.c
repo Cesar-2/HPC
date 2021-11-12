@@ -28,10 +28,8 @@ long long monte_carlo(long long iterations)
 
     for (long long i = 0; i < iterations; i++)
     {
-        x = (double)rand() / (double)(RAND_MAX / 2);
-        x = x - 1;
-        y = (double)rand() / (double)(RAND_MAX / 2);
-        y = y - 1;
+        x = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
+        y = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
         d = sqrt((x * x) + (y * y));
         if (d <= 1)
             circle++;
