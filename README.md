@@ -13,4 +13,3 @@ Members:
 
 * Cesar Alejandro Pimiento
 * Santiago Sanchez Pulgarin
-* Valentina Gomez Isaza

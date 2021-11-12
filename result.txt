@@ -118,3 +118,4 @@ Matrix's size 600 x 600:
 Tiempo de ejecucion: 1.01409500 
 
 
+Tiempo de ejecucion: 0.00463600 
