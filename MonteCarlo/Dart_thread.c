@@ -16,8 +16,7 @@ int main(int argc, char *argv[])
     pi = 4.0 * circle / (double)iterations;
     clock_t end = clock();
     float seconds = (float)(end - start) / CLOCKS_PER_SEC;
-    printf("Pi: %f\n", pi);
-    printf("La ejecucion ha tomado %.4f segundos\n", seconds);
+    printf("Pi: %f\nLa ejecucion ha tomado %.4f segundos\n", pi, seconds);
     return 0;
 }
 
@@ -28,7 +27,7 @@ long long monte_carlo(long long iterations)
 
     for (long long i = 0; i < iterations; i++)
     {
-        x = ((double)rand() / (double)(RAND_MAX / 2) - 1);
+        x = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
         y = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
         d = (x * x) + (y * y);
         if (d <= 1)
