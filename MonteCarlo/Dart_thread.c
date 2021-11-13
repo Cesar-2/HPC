@@ -2,17 +2,28 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
+#include <pthread.h>
 
-long long monte_carlo(long long);
+long long iterations;
+long long circle = 0;
+int num_of_threads;
 
-int main(int argc, char *argv[])
+void *monte_carlo(void *rank);
+
+int main(int argc, char **argv)
 {
-    long long iterations = atoll(argv[1]);
+    iterations = atoi(argv[1]);
+    int thread = atoi(argv[2]);
+    long rank;
     double pi;
-    long long circle = 0;
+    num_of_threads = thread;
+    pthread_t tid[thread];
     srand(time(NULL));
     clock_t start = clock();
-    circle = monte_carlo(iterations);
+    for (rank = 0; rank < num_of_threads; rank++)
+        pthread_create(&tid[rank], NULL, monte_carlo, (void *)rank);
+    for (rank = 0; rank < num_of_threads; rank++)
+        pthread_join(tid[rank], NULL);
     pi = 4.0 * circle / (double)iterations;
     clock_t end = clock();
     float seconds = (float)(end - start) / CLOCKS_PER_SEC;
@@ -20,18 +31,21 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-long long monte_carlo(long long iterations)
+void *monte_carlo(void *id_arg)
 {
     double x, y, d;
     long long circle = 0;
+    long id = (long)id_arg;
+    int size_per_thr = iterations / num_of_threads;
+    int start_index = id * size_per_thr;
+    int final_index = (id + 1) * size_per_thr;
 
-    for (long long i = 0; i < iterations; i++)
+    for (long long i = start_index; i < final_index; i++)
     {
         x = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
         y = ((double)rand() / (double)(RAND_MAX / 2)) - 1;
-        d = (x * x) + (y * y);
+        d = sqrt((x * x) + (y * y));
         if (d <= 1)
             circle++;
     }
-    return circle;
 }
