@@ -1,0 +1,120 @@
+Try 1 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00407500 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.06535600 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.63295100 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.22562200 
+
+
+Try 2 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00227700 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.10716100 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.68942800 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.17396500 
+
+
+Try 3 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00303900 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.06358300 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.63846800 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.24514100 
+
+
+Try 4 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00353100 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.06913700 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.65853700 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.39360800 
+
+
+Try 5 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00530900 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.12021300 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.71185000 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.39114200 
+
+
+Try 6 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00794600 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.04583000 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.72425800 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.40583500 
+
+
+Try 7 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00492000 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.04878100 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 1.07531400 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.67838100 
+
+
+Try 8 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00430000 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.09420700 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.78589200 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.38701800 
+
+
+Try 9 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00623500 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.13100200 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.90066300 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.66672300 
+
+
+Try 10 
+
+Matrix's size 16 x 16: 
+Tiempo de ejecucion: 0.00578200 
+Matrix's size 200 x 200: 
+Tiempo de ejecucion: 0.12175800 
+Matrix's size 400 x 400: 
+Tiempo de ejecucion: 0.90398300 
+Matrix's size 600 x 600: 
+Tiempo de ejecucion: 2.71017600 
+
+
